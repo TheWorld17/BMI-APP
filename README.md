@@ -32,5 +32,5 @@ Aplikacja do obliczania wskaźnika BMI (Body Mass Index) z funkcjami rejestracji
 
 ## Autor
 Roman Vykeryk
-Student AŚ 4 semestr
+Student Akademii 4 semestr
 TheWorld17
