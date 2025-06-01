@@ -31,5 +31,6 @@ Aplikacja do obliczania wskaźnika BMI (Body Mass Index) z funkcjami rejestracji
 5. Otwórz przeglądarkę i przejdź pod adres: `http://localhost:8080`
 
 ## Autor
-Roman Vykeryk 
+Roman Vykeryk
+Student AŚ 4 semestr
 TheWorld17
