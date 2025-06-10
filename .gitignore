@@ -72,3 +72,5 @@ git config --global user.email "broroman8@gmail.com"
 git remote add origin https://github.com/TheWorld17/BMI-APP.git
 git branch -M main
 git push -u origin main
+
+git pull origin main
